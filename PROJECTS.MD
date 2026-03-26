@@ -312,3 +312,19 @@ The strongest portfolios show:
 > Problem Understanding → Data Strategy → Modeling → Evaluation → Business Recommendation → Deployment Thinking
 
 Now go build something meaningful.
+
+
+## 👨‍💻 Author
+
+<table>
+<tr>
+<td align="center">
+<strong>Arya Yadav</strong><br>
+Bennett University<br>
+<a href="mailto:aryayadav5012@gmail.com">📧 Email</a> |
+<a href="https://github.com/ARYA-5012">🐙 GitHub</a>
+</td>
+</tr>
+</table>
+
+---
